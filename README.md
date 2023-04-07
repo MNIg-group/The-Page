@@ -1,5 +1,7 @@
 # The-Page
 
+[Live Preview](https://mugabeignace.github.io/The-Page/)
+
 ## Odin-Landing-Page Project
 
 ### Desired Project
