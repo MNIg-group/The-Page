@@ -1,6 +1,6 @@
 # The-Page
 
-[Live Preview](https://mugabeignace.github.io/The-Page/)
+[Live Preview](https://mnig-group.github.io/The-Page/)
 
 ## Odin-Landing-Page Project
 
